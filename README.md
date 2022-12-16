@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/mackeylol/vids"><https://github.com/mackeylol/vids/blob/main/photos.jpg?raw=true" alt="memes" width="200"></a>
+  <a href="https://github.com/mackeylol/vids"><"https://github.com/mackeylol/vids/blob/main/photos.jpg" alt="memes" width="200"></a>
   <br>
  my memes
   <br>
